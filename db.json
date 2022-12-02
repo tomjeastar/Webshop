@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "aru 2",
+      "quantity": 53,
+      "price": 3700,
+      "type": "udito"
+    },
+    {
+      "id": 3,
+      "name": "aru 3",
+      "quantity": 70,
+      "price": 2700,
+      "type": "tesztafele"
+    },
+    {
+      "id": "lb6ex1hkcu2inp108nh",
+      "name": "aru 47",
+      "quantity": "41",
+      "price": "4000",
+      "type": "udito"
+    }
+  ]
+}
